@@ -1,16 +1,15 @@
-# MOTTA AI SUPPORT ASSISTANT v1.0
+# MOTTA AI SUPPORT ASSISTANT v1.1
 
 <p align="center">
   <b>Aplicativo de suporte técnico e diagnóstico de sistemas para Windows.</b><br>
-  Desenvolvido por <b>Eduardo Motta</b> • Revisado em 21/07/2026
+  Desenvolvido por <b>Eduardo Motta</b> • Revisado em 22/07/2026
 </p>
 
 ---
 
 ## 🖥️ Demonstração do Aplicativo
 
-<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/de8ee83f-6b59-4e5d-bc26-28cf01d44e72" />
-
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/632c13f5-3d0f-483e-84dc-625ec4e19b31" />
 
 ---
 
@@ -24,7 +23,7 @@ O **Motta AI Support Assistant** é uma ferramenta interativa desenvolvida em Py
 
 O assistente conta com um menu interativo completo que engloba as seguintes ferramentas:
 
-* **[1] Verificação de Alerta de Lentidão / Travamentos:** Diagnóstico preliminar de gargalos de desempenho.
+* **[1] Verificação de Alerta de Lentidão / Travamentos:** Diagnóstico preliminar de gargalos de desempenho e avaliação do PC.
 * **[2] Verificação de Discos, NVMe, SSDs e Armazenamento:** Checagem de saúde e espaço das unidades de armazenamento.
 * **[3] Teste de Velocidade de Internet e Rede:** Medição de latência e taxa de transferência.
 * **[4] Informações do Processador e Memória RAM:** Leitura de especificações e consumo de hardware.
@@ -37,7 +36,7 @@ O assistente conta com um menu interativo completo que engloba as seguintes ferr
 ## 📥 Como Baixar e Utilizar
 
 1. Acesse a aba **[Releases](../../releases)** deste repositório.
-2. Baixe o arquivo **`MOTTAAISUPPORT.exe`** mais recente.
+2. Baixe o arquivo **`MOTTAAISUPPORT.v1.1.exe`** mais recente.
 3. Dê um duplo clique no executável para iniciar a interface de linha de comando otimizada.
 
 ---
