@@ -9,7 +9,7 @@
 
 ## 🖥️ Demonstração do Aplicativo
 
-<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/632c13f5-3d0f-483e-84dc-625ec4e19b31" />
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/4aaea25e-6e88-49e0-b976-068d7185373c" />
 
 ---
 
